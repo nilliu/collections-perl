@@ -20,10 +20,10 @@ Features
 > HackerRank implementation
 
 *   `min-max-sum.pl`
-    Q:[https://www.hackerrank.com/challenges/mini-max-sum](https://www.hackerrank.com/challenges/mini-max-sum)
+    Q: [https://www.hackerrank.com/challenges/mini-max-sum](https://www.hackerrank.com/challenges/mini-max-sum)
 *   `pdf-viewer-highlight-word.pl`
-    Q:[https://www.hackerrank.com/challenges/designer-pdf-viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)
+    Q: [https://www.hackerrank.com/challenges/designer-pdf-viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)
 *   `utopian-tree.pl`
-    Q:[https://www.hackerrank.com/challenges/utopian-tree](https://www.hackerrank.com/challenges/utopian-tree)
+    Q: [https://www.hackerrank.com/challenges/utopian-tree](https://www.hackerrank.com/challenges/utopian-tree)
 *   `angry-professor.pl`
-    Q:[https://www.hackerrank.com/challenges/angry-professor](https://www.hackerrank.com/challenges/angry-professor)
+    Q: [https://www.hackerrank.com/challenges/angry-professor](https://www.hackerrank.com/challenges/angry-professor)
