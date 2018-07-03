@@ -94,7 +94,7 @@ use File::Basename;
 
 $PROGRAM  = $0;
 $HOME     = $ENV{"HOME" }; 
-$WATDIR   = $HOME."/md42/WAT";
+$WATDIR   = $HOME."/WAT";
 $LIMITDIR = $WATDIR."/limit";
 $paramPerPage = 10;
 
@@ -271,7 +271,7 @@ eval {
     write WAT;
   }
   logFileLists($FILE);
-  # here to do *real* write back to NEDA DB
+  # here to do *real* write back to DB
 };
 
 
